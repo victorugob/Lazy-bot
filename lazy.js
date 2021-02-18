@@ -4,7 +4,7 @@ const username = "username";
 const password = "password";
 const devEmail = "email@email.com";
 const emailPw = "emailpw";
-const myInstance = "dev103039"
+const myInstance = "";
 const instance = "https://" + myInstance + ".service-now.com/login";
 
 function delay(time) {
